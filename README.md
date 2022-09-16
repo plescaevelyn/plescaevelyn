@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there👋, I'm Plesca Evelyn
-- 📚 Passionate about technology, looking towards expanding my skills
+- 📚 Passionate about technology, looking towards to expanding my skills
 - 🏫 Student at Technical University Of Cluj-Napoca, BSc Automation and Applied Informatics
 - ✨ Member of MedaaTech, a team that enjoys creating sumo robots
 - 💻 Software Engineering Intern
