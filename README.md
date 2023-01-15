@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ✨ Member of MedaaTech, a team that enjoys creating sumo robots
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=plescaevelyn)](https://git.io/streak-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plescaevelyn" alt="plescaevelyn" /></a> </p>
