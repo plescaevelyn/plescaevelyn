@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there👋, I'm Plesca Evelyn
 - 📚 Passionate about technology, looking towards expanding my skills
-- 🏫 Student at Technical University Of Cluj-Napoca, MSc Communication Networks and Distributed Systems
+- 🏫 Student at Technical University of Cluj-Napoca, MSc Communication Networks and Distributed Systems
 - 🏫 Graduated with a degree in BSc Automation and Applied Informatics
-- ✨ Member of MedaaTech, a team that enjoys creating sumo robots
+- ✨ Member of MedaaTech, a team that enjoys creating robots
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=plescaevelyn)](https://git.io/streak-stats)
 <br>
