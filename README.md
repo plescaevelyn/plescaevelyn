@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 - 🏫 Student at Technical University of Cluj-Napoca, MSc Communication Networks and Distributed Systems
 - 🏫 Graduated with a degree in BSc Automation and Applied Informatics
 - ✨ Member of MedaaTech, a team that enjoys creating robots
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plescaevelyn)](https://github.com/plescaevelyn)
+
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=plescaevelyn)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plescaevelyn)](https://github.com/plescaevelyn)
+
  -->
